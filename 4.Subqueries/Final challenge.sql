@@ -16,4 +16,3 @@ SELECT DISTINCT c.name, e.total_investment, e.imports
   WHERE year = 2015 AND region = 'Central America'
 -- Order by field
 ORDER BY c.name;
-
